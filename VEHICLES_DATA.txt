@@ -1,0 +1,2 @@
+0|1-1|Mercedes-Benz|AAA 111|1234|550|0
+0|1-2|Mansory G-Wagon|BBB 222|5678|650|0
